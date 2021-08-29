@@ -14,8 +14,8 @@ spec:
     metadata:
       labels:
         app: ngsa-java
-        version: beta-0822-0608
-        deploy: 21-08-22-06-08-26
+        version: beta-0829-0607
+        deploy: 21-08-29-06-07-44
       annotations:
         prometheus.io/scrape: 'true'
         prometheus.io/port: '8080'
